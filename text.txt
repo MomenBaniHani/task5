@@ -1,0 +1,8 @@
+id
+name
+title 
+function to add book 
+function to update book
+function to delete 
+function to get book'=
+create array contains 3 objects
